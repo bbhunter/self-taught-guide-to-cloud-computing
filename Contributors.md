@@ -68,10 +68,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Abdennour0210">
-            <img src="https://avatars.githubusercontent.com/u/46243233?v=4" width="100;" alt="Abdennour0210"/>
+        <a href="https://github.com/joseasync">
+            <img src="https://avatars.githubusercontent.com/u/18737977?v=4" width="100;" alt="joseasync"/>
             <br />
-            <sub><b>Abdennour</b></sub>
+            <sub><b>Jose Cruz</b></sub>
         </a>
     </td>
     <td align="center">
@@ -82,10 +82,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/joseasync">
-            <img src="https://avatars.githubusercontent.com/u/18737977?v=4" width="100;" alt="joseasync"/>
+        <a href="https://github.com/Abdennour0210">
+            <img src="https://avatars.githubusercontent.com/u/46243233?v=4" width="100;" alt="Abdennour0210"/>
             <br />
-            <sub><b>Jose Cruz</b></sub>
+            <sub><b>Abdennour</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -118,17 +118,17 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/arushmangal">
-            <img src="https://avatars.githubusercontent.com/u/83538403?v=4" width="100;" alt="arushmangal"/>
+        <a href="https://github.com/ydamni">
+            <img src="https://avatars.githubusercontent.com/u/93495053?v=4" width="100;" alt="ydamni"/>
             <br />
-            <sub><b>Arush Mangal</b></sub>
+            <sub><b>Yassin DAHMOUNI</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ethanolivertroy">
-            <img src="https://avatars.githubusercontent.com/u/63926014?v=4" width="100;" alt="ethanolivertroy"/>
+        <a href="https://github.com/sarthakregmi">
+            <img src="https://avatars.githubusercontent.com/u/66667396?v=4" width="100;" alt="sarthakregmi"/>
             <br />
-            <sub><b>Ethan Troy</b></sub>
+            <sub><b>Sarthak Regmi</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -140,17 +140,17 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/sarthakregmi">
-            <img src="https://avatars.githubusercontent.com/u/66667396?v=4" width="100;" alt="sarthakregmi"/>
+        <a href="https://github.com/ethanolivertroy">
+            <img src="https://avatars.githubusercontent.com/u/63926014?v=4" width="100;" alt="ethanolivertroy"/>
             <br />
-            <sub><b>Sarthak Regmi</b></sub>
+            <sub><b>Ethan Troy</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ydamni">
-            <img src="https://avatars.githubusercontent.com/u/93495053?v=4" width="100;" alt="ydamni"/>
+        <a href="https://github.com/arushmangal">
+            <img src="https://avatars.githubusercontent.com/u/83538403?v=4" width="100;" alt="arushmangal"/>
             <br />
-            <sub><b>Yassin DAHMOUNI</b></sub>
+            <sub><b>Arush Mangal</b></sub>
         </a>
     </td>
     <td align="center">
