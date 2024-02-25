@@ -75,10 +75,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/srishtipoudel">
-            <img src="https://avatars.githubusercontent.com/u/66827364?v=4" width="100;" alt="srishtipoudel"/>
+        <a href="https://github.com/thisislazaruss">
+            <img src="https://avatars.githubusercontent.com/u/66827364?v=4" width="100;" alt="thisislazaruss"/>
             <br />
-            <sub><b>Srishti </b></sub>
+            <sub><b>Srishti Poudel</b></sub>
         </a>
     </td>
     <td align="center">
