@@ -121,12 +121,21 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/kevball2">
+                    <img src="https://avatars.githubusercontent.com/u/22545150?v=4" width="100;" alt="kevball2"/>
+                    <br />
+                    <sub><b>Kevin</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/arushmangal">
                     <img src="https://avatars.githubusercontent.com/u/83538403?v=4" width="100;" alt="arushmangal"/>
                     <br />
                     <sub><b>Arush Mangal</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/ethanolivertroy">
                     <img src="https://avatars.githubusercontent.com/u/63926014?v=4" width="100;" alt="ethanolivertroy"/>
@@ -134,8 +143,6 @@
                     <sub><b>Ethan Troy</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/erh-git">
                     <img src="https://avatars.githubusercontent.com/u/8422319?v=4" width="100;" alt="erh-git"/>
@@ -171,6 +178,8 @@
                     <sub><b>Null</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/allan-oliveira">
                     <img src="https://avatars.githubusercontent.com/u/10514795?v=4" width="100;" alt="allan-oliveira"/>
@@ -178,8 +187,6 @@
                     <sub><b>Allan Oliveira</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/vazsingh">
                     <img src="https://avatars.githubusercontent.com/u/74464807?v=4" width="100;" alt="vazsingh"/>
@@ -215,6 +222,8 @@
                     <sub><b>Luke Gain</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/loujaybee">
                     <img src="https://avatars.githubusercontent.com/u/5528307?v=4" width="100;" alt="loujaybee"/>
@@ -222,8 +231,6 @@
                     <sub><b>Lou Bichard</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/JacobHigbee">
                     <img src="https://avatars.githubusercontent.com/u/23349913?v=4" width="100;" alt="JacobHigbee"/>
